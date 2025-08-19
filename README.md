@@ -2,8 +2,7 @@
 
 Ahorraton is a web application that compares product prices from the top Argentinian supermarkets and recommends the most cost-effective store based on a user’s shopping list.
 
-
-[![Watch the demo](./resources/demo.png)](https://youtu.be/zG5BkhvA5ms)
+![Demo](./resources/demo.gif)
 
 
 # Architecture
